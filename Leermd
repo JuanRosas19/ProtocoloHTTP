@@ -1,0 +1,3 @@
+# ProtocoloHTTP
+Servidor con Protocolo HTTP y códigos de respuesta 
+Para usar el servidor abrir el terminal e introducir el comando npm install y para correr el servidor se activa con el comando npm run dev 
