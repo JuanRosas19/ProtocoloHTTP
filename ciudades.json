@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ciudad 1",
+      "casas": 20,
+      "edificios": 18,
+      "apartamentos": 10,
+      "carreteras": 30,
+      "puentes": 13,
+      "parques": 8,
+      "zonas": 39
+    },
+    {
+      "id": 2,
+      "nombre": "Ciudad 2",
+      "casas": 10,
+      "edificios": 11,
+      "apartamentos": 9,
+      "carreteras": 40,
+      "puentes": 10,
+      "parques": 8,
+      "zonas": 19
+    }
+  ]
